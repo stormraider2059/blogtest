@@ -540,7 +540,7 @@ footer.footer .copyright
 footer.footer .scroll-up
 {
 	position: fixed;
-	bottom: 12vh;
+	bottom: 15vh;
 	right: 5%;
 	height: 38px;
 	width: 38px;
@@ -615,7 +615,7 @@ footer.footer .scroll-up:hover
 {
    footer.footer .scroll-up
    {
-      bottom: 12vh;
+      bottom: 15vh;
    }
 }
 
